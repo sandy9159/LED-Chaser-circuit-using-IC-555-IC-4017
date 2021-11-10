@@ -71,10 +71,23 @@ If you seriously need quality PCB quickly in your hand then you must have to try
 They have Special offer of $2 for 1-4 Layer PCBs, free SMT assembly monthly.
 If new user signup today from this link [JLCPCB](https://jlcpcb.com/IAT ) you will get 30$ coupon from [JLCPCB](https://jlcpcb.com/IAT ).
 
+You can easily understand the working of the circuit from the above animation. As I explained above, 555 timer is wired as an astable multivibrator. 
+
+Please read the article Astable Multivibrator using 555 Timer for detailed explanation. So the 555 will 
+
+produce square wave output and which will act as a clock for the CD4017 counter IC.
+
+You can see that for each high pulse output of 555, the output of 4017 is incrementing by one. Output frequency of 
+
+555 astable is given by the following equation.
+
+Output Frequency =  1.44/((R1 + 2RV1) * C1)
+So you can easily change the output frequency of above circuit by varying the preset RV1. By this we can change the LED chasing speed.
 
 ![image](https://user-images.githubusercontent.com/19898602/141063631-00b80017-3a14-4f6e-8667-e8f319461847.png)
 ![image](https://user-images.githubusercontent.com/19898602/141063700-9e80d188-2150-4fbb-83cb-11e2e995e55e.png)
 
 
+![MVI_0004](https://user-images.githubusercontent.com/19898602/141063951-8fdeff03-6cbe-4f56-8d6e-584a75bb80e4.gif)
 
 
