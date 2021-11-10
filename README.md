@@ -63,5 +63,18 @@ Remaining pins from Q7 to Q9 will be No Connection.
 ![image](https://user-images.githubusercontent.com/19898602/141063331-f61b3938-40ce-4e22-8ba7-7e1550a2d39c.png)
 ![image](https://user-images.githubusercontent.com/19898602/141063382-a7b48761-2c2f-4bfb-a49e-d2cfdeb4fde8.png)
 
+I have ordered PCB from [JLCPCB](https://jlcpcb.com/IAT )
+
+This is the link of [PCB editabl file](https://oshwlab.com/sharmaz747/multipurpose-pcb)
+
+If you seriously need quality PCB quickly in your hand then you must have to try [JLCPCB](https://jlcpcb.com/IAT ) PCB manufacturing service.
+They have Special offer of $2 for 1-4 Layer PCBs, free SMT assembly monthly.
+If new user signup today from this link [JLCPCB](https://jlcpcb.com/IAT ) you will get 30$ coupon from [JLCPCB](https://jlcpcb.com/IAT ).
+
+
+![image](https://user-images.githubusercontent.com/19898602/141063631-00b80017-3a14-4f6e-8667-e8f319461847.png)
+![image](https://user-images.githubusercontent.com/19898602/141063700-9e80d188-2150-4fbb-83cb-11e2e995e55e.png)
+
+
 
 
