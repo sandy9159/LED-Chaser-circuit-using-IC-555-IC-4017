@@ -38,3 +38,30 @@
 > 1 * 10k Pot wires 
 
 
+#  CIRCUIT DIAGRAM AND PCB DETAILS
+
+![image](https://user-images.githubusercontent.com/19898602/141062055-e9f6e404-a53a-491a-adfe-304eb1c7a9f7.png)
+
+Construct the circuit as shown in the circuit diagram.
+
+For making the LED Chaser you require 555 Timer & 4017 Counter. The 555 Timer is used to produce the clock pluse for the 4017. The 4017 is constructed in a Astable configuration.
+
+When the clock pulse produced by the 555 timer is fed to the 4017, it starts counting in the upward direction for each pulse. Now when you connect the LED's to the outputs you get the sequential glow.
+
+The duration of the glow of led's can be altered by changing the value of pot (RV1) & the value of C2 Capacitor. or only by changing the value of pot (RV1).
+
+![image](https://user-images.githubusercontent.com/19898602/141062382-0819ee2b-937e-4119-8f55-4a9ca0f4d99d.png)
+![image](https://user-images.githubusercontent.com/19898602/141062423-9db2b854-c1d8-4a00-8077-bdf87100fb78.png)
+
+
+In the circuit diagram i showed the circuit which counts upto the value 10. You can change the value of count by simply connecting the last sequence to the reset pin. For example
+
+Let say you want the count to be 6
+Then you need to connect the Q0 to Q5 to the LED's & the Q6 to the Reset Pin 15.
+Remaining pins from Q7 to Q9 will be No Connection.
+
+![image](https://user-images.githubusercontent.com/19898602/141063331-f61b3938-40ce-4e22-8ba7-7e1550a2d39c.png)
+![image](https://user-images.githubusercontent.com/19898602/141063382-a7b48761-2c2f-4bfb-a49e-d2cfdeb4fde8.png)
+
+
+
